@@ -31,7 +31,7 @@ class App extends Component {
        
         <div class="row">
           <div class="column"></div>
-
+       <h1>shubhadip</h1>
         </div>
       </div>
       <input type="file" onChange={(e) => this.showFile(e)} style={{ marginTop: "5rem", marginLeft: "5rem" }} />
